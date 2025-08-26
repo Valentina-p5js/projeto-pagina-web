@@ -13,7 +13,7 @@ header {
     color: rgb(243, 144, 78);
     display: flex;
     align-items: center;
-    gap: 20px; /* Espaço entre a logo e o texto */
+    gap: 20px;
 }
 
 
@@ -65,5 +65,5 @@ p{
 }
 
 .logo-site {
-    height: 50px; /* Ajuste conforme o tamanho desejado */
+    height: 200px;
 }
